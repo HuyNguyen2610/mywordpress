@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/t-shirts/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huynguyen2610.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 20 Oct 2022 01:52:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Oct 2022 07:58:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>FREE SNAP HOOD</title>
 		<link>https://huynguyen2610.github.io/mywordpress/san-pham/free-snap-hood-6/</link>
@@ -99,6 +99,27 @@ Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://huynguyen2610.github.io/mywordpress/san-pham/free-snap-hood-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EASE BOMBER VEST</title>
+		<link>https://huynguyen2610.github.io/mywordpress/san-pham/ease-bomber-vest-2/</link>
+					<comments>https://huynguyen2610.github.io/mywordpress/san-pham/ease-bomber-vest-2/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphanvanhuy]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 02:42:48 +0000</pubDate>
+				<guid isPermaLink="false">https://huynguyen2610.github.io/mywordpress/?post_type=product&#038;p=1109</guid>
+
+					<description><![CDATA[Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.
+
+Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.]]></description>
+										<content:encoded><![CDATA[<p>Embodying the raw, wayward spirit of rock ‘n’ roll, the Kilburn portable active stereo speaker takes the unmistakable look and sound of Marshall, unplugs the chords, and takes the show on the road.</p>
+<p>Weighing in under 7 pounds, the Kilburn is a lightweight piece of vintage styled engineering. Setting the bar as one of the loudest speakers in its class, the Kilburn is a compact, stout-hearted hero with a well-balanced audio which boasts a clear midrange and extended highs for a sound that is both articulate and pronounced. The analogue knobs allow you to fine tune the controls to your personal preferences while the guitar-influenced leather strap enables easy and stylish travel.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://huynguyen2610.github.io/mywordpress/san-pham/ease-bomber-vest-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
